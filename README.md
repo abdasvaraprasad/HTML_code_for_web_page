@@ -37,5 +37,4 @@ TF-IDF (Term Frequency-Inverse Document Frequency): A way to score the importanc
 
 ## Summary
 
-![alt text](image.png)
-
+![alt text](image.png)![alt text](<Screenshot 2024-09-17 162856.png>)
